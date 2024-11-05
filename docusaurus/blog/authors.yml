@@ -1,12 +1,11 @@
-augchao:
-  name: August Chao
-  title: Assistant Professor @ CSIE NPU
-  url: https://github.com/AugustChaoTW
-  image_url: https://avatars.githubusercontent.com/u/35834182?v=4
+YaochengYang:
+  name: grimreaper
+  title: student @ CSIE NPU
+  url: https://github.com/grimreaperes00
+  image_url: https://avatars.githubusercontent.com/u/182920629?v=4
   page: 
-    permalink: '/all-augchao-articles'
+    permalink:
   socials:
-    github: AugustChaoTW
-    linkedin: fychao
+    github: grimreaperes00
 
 
