@@ -1,12 +1,9 @@
-augchao:
-  name: August Chao
-  title: Assistant Professor @ CSIE NPU
-  url: https://github.com/AugustChaoTW
-  image_url: https://avatars.githubusercontent.com/u/35834182?v=4
+Honglin:
+  name: Honglin Huang
+  title: Student @ CSIE NPU
+  url: https://github.com/hong301
+  image_url: https://avatars.githubusercontent.com/u/185162532?s=400&u=36bd4a645a2a75409d31ff4485ce938da50dc218&v=4
   page: 
-    permalink: '/all-augchao-articles'
+    permalink: 
   socials:
-    github: AugustChaoTW
-    linkedin: fychao
-
-
+    github: Hong301
